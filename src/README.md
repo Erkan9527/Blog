@@ -16,5 +16,5 @@ projects:
 
 footer: 
 ---
-footer: Copyright © 2024 yuanfox.cn | <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024240077号-1</a>
+Copyright © 2024 yuanfox.cn | <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024240077号-1</a>
 ---
