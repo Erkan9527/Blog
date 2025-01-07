@@ -16,5 +16,5 @@ projects:
 
 footer: 
 ---
-Copyright © 2024 yuanfox.cn | <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024240077号-1</a>
+我从哪里起飞，从哪里降落
 ---

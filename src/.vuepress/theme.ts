@@ -42,7 +42,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: 'Copyright © 2024 yuanfox.cn | <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024240077号-1</a>',
 
       displayFooter: true,
 
