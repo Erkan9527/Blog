@@ -16,5 +16,5 @@ projects:
 
 footer: 
 ---
-
-"人生如棋，落子无悔。不是不后悔，而是不该后悔。" —— 张爱玲
+footer: Copyright © 2024 yuanfox.cn | <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024240077号-1</a>
+---
