@@ -16,12 +16,6 @@ export const enSidebar = sidebar({
       prefix: "posts/书签",
       children: "structure",
     },
-    {
-      text: "刷题笔记",
-      icon: "book",
-      prefix: "posts/刷题笔记",
-      children: "structure",
-    },
     "intro",
     {
       text: "Slides",
