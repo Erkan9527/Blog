@@ -4,11 +4,11 @@ import { enNavbar} from "./navbar/index.js";
 import { enSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://github.com/diner888",
+  hostname: "https://github.com/Erkan9527",
 
   author: {
-    name: "叶珉子",
-    url: "https://github.com/diner888",
+    name: "Erkan9527",
+    url: "https://github.com/Erkan9527",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -26,7 +26,7 @@ export default hopeTheme({
     medias: {
     BiliBili: "https://space.bilibili.com/501112033?spm_id_from=333.1007.0.0",
       Email: "mailto:yuanfox2024@163.com",
-      GitHub: "https://github.com/diner888",
+      GitHub: "https://github.com/Erkan9527",
       Gmail: "bennieerkan671@gmail.com",
       steam:"https://steamcommunity.com/profiles/76561199543933199/",
 
@@ -47,7 +47,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "本科在读,编程技术很菜,但是喜欢折腾",
+        description: "格物致知",
         intro: "/intro.html",
       },
 
